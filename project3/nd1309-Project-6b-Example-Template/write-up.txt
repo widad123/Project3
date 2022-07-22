@@ -1,0 +1,29 @@
+Network:
+
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 30000000 (0x1c9c380)
+============================================================================================
+The contract address:
+
+> transaction hash:    0x248f58ad6e490653e424fb94c80292348458dcb46d3bc2ce9dc1b172d1e16684
+   > Blocks: 1            Seconds: 12
+   > contract address:    0xc4f0eEBb925680A6e02B83a7AD4d6bb93f94eAC9
+   > block number:        11062951
+   > block timestamp:     1658403703
+   > account:             0xd254CdFBB953af1b359792Ad0764d797b5B6fBc3
+   > balance:             3.499438374237027243
+   > gas used:            2576080 (0x274ed0)
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0257608 ETH
+==============================================================================
+>Dependencies:
+
+Truffle v5.4.23 - a development framework for Ethereum
+Node version :v16.15.1
+web3: ^0.20.6
+=============================================================================
+
+
+
